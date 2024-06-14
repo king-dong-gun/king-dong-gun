@@ -1,7 +1,7 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Hello%20World%20👋%20I'm%20Dong-Gun&animation=&fontColor=000000&fontSize=60" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Hello%20World%20👋%20I'm%20Dong-Gun&animation=&fontColor=000000&fontSize=45" style="margin-top:0;" />
 </div>
-<div style="text-align: left;">
+<div style="text-align: left; margin-top: 0;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 반갑습니다! </h2>
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 저는 성장하는 것을 꾸준히 고민하는 취준생 개발자입니다~~ </div>
 </div>
@@ -32,8 +32,8 @@
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br>
     <div style="text-align: left;">
-        <a href=https://www.instagram.com/k_d.gun/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/k_d.gun/"> </a>
-        <a href=mailto:a01021290607@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:a01021290607@gmail.com"> </a>
+        <a href="https://www.instagram.com/k_d.gun/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/k_d.gun/"> </a>
+        <a href="mailto:a01021290607@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:a01021290607@gmail.com"> </a>
     </div> <br>
     <div style="text-align: left;">
         <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fking-dong-gun%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
