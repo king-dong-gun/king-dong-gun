@@ -58,6 +58,8 @@
 
 ## 📊 기타 통계
 
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+
 ---
 
 ### 방문해 주셔서 감사합니다! 😄
