@@ -3,7 +3,7 @@
 </div>
 <div style="text-align: left; margin-top: 0;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 반갑습니다! </h2>
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 저는 성장하는 것을 꾸준히 고민하는 취준생 개발자입니다~~ </div>
+    <h3 style="font-weight: 700; font-size: 20px; text-align: left; color: #c9d1d9;"> 저는 성장하는 과정을 꾸준히 고민하는 취준생 개발자입니다~~ </h3>
 </div>
 
 - 🔭 I completed...
