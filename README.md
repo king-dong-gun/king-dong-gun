@@ -6,6 +6,14 @@
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 저는 성장하는 것을 꾸준히 고민하는 취준생 개발자입니다~~ </div>
 </div>
 
+- 🔭 I completed...
+- 🔭 I’m currently working on [팀프로젝트 : mo.zip](https://github.com/PKNU-JavaStudy/mozip_backend)
+- 🌱 I’m currently learning `SpringBoot`, `Thymeleaf`, `Java`
+- 📝 I regularly write articles on...
+- 📫 How to reach me **ikmine12@naver.com**<p><a href="https://solved.ac/ikmine12"><img alt="Solved.ac 프로필" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ikmine12" /></a></p>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLegdayDev&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<h1 align="left">🛠️Languages and Tools</h1>
+
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br>
     <div style="margin: ; text-align: left;">
