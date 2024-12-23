@@ -8,7 +8,7 @@
 
 - 🔭 I completed [팀프로젝트 : mo.zip](https://github.com/PKNU-JavaStudy/mozip_backend)
 - 🌱 I’m currently learning `SpringBoot`, `Thymeleaf`, `Java`, `Kubernetes`
-- 💡 - This is My Portfolio (Editing) [Portfolio](https://www.notion.so/Hi-I-m-Dong-Gun-efc2541706564f3e8a72fca64298da5f)
+- 💡 - This is My [Portfolio](https://www.notion.so/Hi-I-m-Dong-Gun-efc2541706564f3e8a72fca64298da5f) (Editing)
 - 📝 I regularly write articles on [Blog](https://velog.io/@king-dong-gun/posts)
 - 📫 How to reach me **ikmine12@naver.com**<p><a href="https://solved.ac/ikmine12"></a></p>
 
