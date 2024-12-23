@@ -6,10 +6,10 @@
     <h3 style="font-weight: 700; font-size: 20px; text-align: left; color: #c9d1d9;"> 저는 성장하는 과정을 꾸준히 고민하는 취준생 개발자입니다~~ </h3>
 </div>
 
-- 🔭 I completed...
-- 🔭 I’m currently working on [팀프로젝트 : mo.zip](https://github.com/PKNU-JavaStudy/mozip_backend)
-- 🌱 I’m currently learning `SpringBoot`, `Thymeleaf`, `Java`
-- 📝 I regularly write articles on...
+- 🔭 I completed [팀프로젝트 : mo.zip](https://github.com/PKNU-JavaStudy/mozip_backend)
+- 🌱 I’m currently learning `SpringBoot`, `Thymeleaf`, `Java`, `Kubernetes`
+- 💡 - This is My Portfolio (Editing) [Portfolio](https://www.notion.so/Hi-I-m-Dong-Gun-efc2541706564f3e8a72fca64298da5f)
+- 📝 I regularly write articles on [Blog](https://velog.io/@king-dong-gun/posts)
 - 📫 How to reach me **ikmine12@naver.com**<p><a href="https://solved.ac/ikmine12"></a></p>
 
 
