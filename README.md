@@ -48,7 +48,7 @@
 
 ## 📈 GitHub 통계
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=king-dong-gun&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=king-dong-hun)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=king-dong-gun)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
