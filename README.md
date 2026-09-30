@@ -118,7 +118,7 @@ Spring Boot 기반으로 백엔드 개발과 서비스 운영을 경험했습니
       <td>개발자와 취업준비생들이 프로젝트를 찾고 참여할 수 있는 협업 플랫폼</td>
       <td>
         <a href="https://github.com/PKNU-JavaStudy/mozip_backend">
-          <img src="./assets/mozip-logo.png" alt="mo.zip Backend" width="120">
+          <img src="./assets/mozip.png" alt="mo.zip Backend" width="120">
         </a>
       </td>
     </tr>
