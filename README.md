@@ -87,18 +87,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=king-dong-gun&show_icons=true&theme=dracula)
-
----
-
-## 🏆 GitHub Trophy
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=king-dong-gun&theme=dracula&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
