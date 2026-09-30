@@ -58,7 +58,7 @@ Spring Boot 기반으로 백엔드 개발과 서비스 운영을 경험했습니
       <td><img src="https://img.shields.io/badge/DONE-6B7280?style=flat-square" alt="DONE"></td>
       <td>2025.12.01 ~ 2026.02.28</td>
       <td><strong>컨텍터스</strong></td>
-      <td>백엔드 개발 · 계약직</td>
+      <td>백엔드 개발</td>
     </tr>
   </tbody>
 </table>
