@@ -79,7 +79,7 @@
 
 프로젝트 경험과 실무에서 수행한 업무를 정리한 포트폴리오입니다.
 
-[![Notion](https://img.shields.io/badge/Notion-Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Hi-I-m-Dong-Gun-efc2541706564f3e8a72fca64298da5f)
+[![Notion]([https://img.shields.io/badge/Notion-Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Hi-I-m-Dong-Gun-efc2541706564f3e8a72fca64298da5f](https://app.notion.com/p/Hi-I-m-Dong-Gun-3135e87e5a368016bd38d7771bf9d4be))
 
 ### 4. Contact
 
