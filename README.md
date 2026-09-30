@@ -1,7 +1,7 @@
 <h1>💻 Backend Developer</h1>
 
 
-<div align="center">
+<div align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=king-dong-gun&theme=github_dark&animation=stagger" alt="GitHub Stats">
   <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=king-dong-gun&theme=github_dark&animation=draw" alt="GitHub Profile Details">
