@@ -208,10 +208,16 @@ Spring Boot 기반으로 백엔드 개발과 서비스 운영을 경험했습니
 
 <h3>3. Career Summary</h3>
 <p>
-프로젝트 경험과 실무에서 수행한 업무를 정리한 포트폴리오입니다.<br>
+프로젝트 경험과 실무에서 수행한 업무를 정리한 경력기술서와 포트폴리오입니다.<br>
+
+<a href="https://app.notion.com/p/3115e87e5a3680698d15ea1dc730e1c3">
+  <img src="https://img.shields.io/badge/Notion-Career-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Career">
+</a>
+
 <a href="https://app.notion.com/p/Hi-I-m-Dong-Gun-3135e87e5a368016bd38d7771bf9d4be">
   <img src="https://img.shields.io/badge/Notion-Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Portfolio">
 </a>
+
 </p>
 
 <h3>4. Contact</h3>
