@@ -76,6 +76,7 @@ Spring Boot 기반으로 백엔드 개발과 서비스 운영을 경험했습니
 <p><strong>Spring Boot · MySQL · PostgreSQL · Nginx</strong></p>
 
 <ul>
+  <li>자사 서비스 기능 개발 및 레거시 시스템 유지보수</li>
   <li>MySQL 인덱스 최적화를 통한 데이터 조회 성능 개선</li>
   <li>Nginx 라우팅 및 SSL 구성 관리, 서비스 운영 환경 유지보수</li>
   <li>데이터 정합성 문제 분석 및 운영 장애 대응</li>
