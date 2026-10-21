@@ -68,61 +68,38 @@ Spring Boot 기반으로 백엔드 개발과 서비스 운영을 경험했습니
 <h2>🏢 Professional Experience</h2>
 
 <p>
-실무에서 수행한 백엔드 개발, 인증 시스템 구현, 외부 API 연동 및 서비스 운영 경험입니다.
+실무에서 수행한 주요 백엔드 개발 및 기술 개선 경험입니다.
 </p>
 
 <h3>1. 레거시 시스템 유지보수 및 인프라 운영</h3>
 
-<p>
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white">
-</p>
+<p><strong>Spring Boot · MySQL · PostgreSQL · Nginx</strong></p>
 
 <ul>
-  <li>자사 레거시 플랫폼 유지보수 및 운영 지원</li>
-  <li>Nginx URL 라우팅 설정 및 SSL 인증서 설치·갱신 관리</li>
   <li>MySQL 인덱스 최적화를 통한 데이터 조회 성능 개선</li>
-  <li>데이터 정합성 검증, 버그 수정 및 장애 대응</li>
-  <li>서버 배포 및 버전 관리</li>
+  <li>Nginx 라우팅 및 SSL 구성 관리, 서비스 운영 환경 유지보수</li>
+  <li>데이터 정합성 문제 분석 및 운영 장애 대응</li>
 </ul>
 
-<h3>2. 소셜 로그인 기반 QR 민원 접수 기능 개발</h3>
+<h3>2. 소셜 로그인 기반 QR 민원 접수 시스템 고도화</h3>
 
-<p>
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
-<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white">
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white">
-<img src="https://img.shields.io/badge/OAuth%202.0-EB5424?style=flat-square">
-<img src="https://img.shields.io/badge/MyBatis-BE1E2D?style=flat-square">
-</p>
+<p><strong>Spring Boot · Spring Security · JWT · OAuth 2.0 · MyBatis</strong></p>
 
 <ul>
-  <li>기존 B2C 서비스를 B2B 환경으로 확장하기 위한 QR 기반 민원 접수 구조 설계</li>
-  <li>건물·층·시설 단위 QR 코드 기반 접수 기능 구현</li>
-  <li>Kakao/Naver OAuth 2.0 기반 소셜 로그인 연동</li>
-  <li>Spring Security와 JWT 기반 내부 직원 및 외부 사용자 인증 처리</li>
-  <li>JWT URL 노출 방지를 위한 세션 기반 임시 코드 릴레이 방식 적용</li
-  <li>민원 상태 변경에 따른 알림톡 자동 발송 기능 연동</li>
+  <li>기존 B2C 서비스를 B2B 환경으로 확장하기 위한 QR 기반 접수 구조 설계</li>
+  <li>Spring Security 기반 내부 직원·외부 사용자 인증 체계 통합 및 JWT Claims 기반 권한 분기 구현</li>
+  <li>OAuth 인증 과정의 JWT 노출 문제를 개선하기 위한 세션 기반 임시 코드 릴레이 방식 적용</li>
+  <li>Kakao/Naver 계정 통합 및 사용자 유형별 Refresh Token 관리 정책 구현</li>
 </ul>
 
-<h3>3. 공공 API 연동 및 데이터 자동화</h3>
+<h3>3. 공공 API 연동 및 데이터 수집 자동화</h3>
 
-<p>
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
-<img src="https://img.shields.io/badge/Public%20API-2563EB?style=flat-square">
-<img src="https://img.shields.io/badge/VWorld-475569?style=flat-square">
-</p>
+<p><strong>Spring Boot · HttpClient · 공공데이터포털 · VWorld</strong></p>
 
 <ul>
-  <li>공공데이터포털 건축물대장 API를 활용한 건물 기본정보 및 층별 정보 자동 수집</li>
-  <li>VWorld API 기반 토지 특성 및 공시지가 데이터 조회</li>
-  <li>행정구역코드 변환 및 주소 정규화 로직 구현</li>
-  <li>수집 데이터를 내부 DB 및 리포트 시스템에 자동 매핑</li>
-  <li>공공 API 캐싱 및 연 1회 데이터 갱신 스케줄러 운영</li>
-  <li>데이터 갱신 결과 Slack 자동 리포팅</li>
-  <li>외부 API 장애 시 캐시 데이터 활용 및 수동 갱신 기능 제공</li>
+  <li>공공데이터포털·VWorld API를 연계한 건축물 및 토지 정보 수집 자동화</li>
+  <li>주소 정규화 및 행정구역코드 변환을 통한 외부 데이터와 내부 DB 매핑 처리</li>
+  <li>외부 API 장애에 대비한 캐시 기반 조회 및 정기 데이터 갱신 구조 구현</li>
 </ul>
 
 <hr>
