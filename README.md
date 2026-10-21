@@ -1,5 +1,5 @@
-<h1>💻 Backend Developer</h1>
 
+<h1>💻 Backend Developer</h1>
 
 <div align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=king-dong-gun&theme=github_dark&animation=stagger" alt="GitHub Stats">
@@ -116,11 +116,17 @@ Spring Boot 기반으로 백엔드 개발과 서비스 운영을 경험했습니
       <td><img src="https://img.shields.io/badge/DONE-6B7280?style=flat-square" alt="DONE"></td>
       <td><strong>mo.zip</strong></td>
       <td>개발자와 취업준비생들이 프로젝트를 찾고 참여할 수 있는 협업 플랫폼</td>
-       <td>
+      <td>
         <a href="https://github.com/PKNU-JavaStudy/mozip_backend">
           <img src="./mozip.png" alt="mo.zip Backend" width="120">
         </a>
       </td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/DONE-6B7280?style=flat-square" alt="DONE"></td>
+      <td><strong>마이데이터 2.0</strong></td>
+      <td>개인 금융 데이터를 통합 조회하고 관리할 수 있도록 지원하는 금융 마이데이터 서비스</td>
+      <td>-</td>
     </tr>
   </tbody>
 </table>
