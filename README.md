@@ -73,7 +73,12 @@ Spring Boot 기반으로 백엔드 개발과 서비스 운영을 경험했습니
 
 <h3>1. 레거시 시스템 유지보수 및 인프라 운영</h3>
 
-<p><strong>Spring Boot · MySQL · PostgreSQL · Nginx</strong></p>
+<p>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx">
+</p>
 
 <ul>
   <li>자사 서비스 기능 개발 및 레거시 시스템 유지보수</li>
@@ -84,7 +89,13 @@ Spring Boot 기반으로 백엔드 개발과 서비스 운영을 경험했습니
 
 <h3>2. 소셜 로그인 기반 QR 민원 접수 시스템 고도화</h3>
 
-<p><strong>Spring Boot · Spring Security · JWT · OAuth 2.0 · MyBatis</strong></p>
+<p>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security">
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT">
+  <img src="https://img.shields.io/badge/OAuth%202.0-EB5424?style=flat-square&logoColor=white" alt="OAuth 2.0">
+  <img src="https://img.shields.io/badge/MyBatis-BE1E2D?style=flat-square&logoColor=white" alt="MyBatis">
+</p>
 
 <ul>
   <li>기존 B2C 서비스를 B2B 환경으로 확장하기 위한 QR 기반 접수 구조 설계</li>
@@ -95,7 +106,12 @@ Spring Boot 기반으로 백엔드 개발과 서비스 운영을 경험했습니
 
 <h3>3. 공공 API 연동 및 데이터 수집 자동화</h3>
 
-<p><strong>Spring Boot · HttpClient · 공공데이터포털 · VWorld</strong></p>
+<p>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/HttpClient-475569?style=flat-square&logoColor=white" alt="HttpClient">
+  <img src="https://img.shields.io/badge/Public%20Data%20Portal-2563EB?style=flat-square&logoColor=white" alt="공공데이터포털">
+  <img src="https://img.shields.io/badge/VWorld-475569?style=flat-square&logoColor=white" alt="VWorld">
+</p>
 
 <ul>
   <li>공공데이터포털·VWorld API를 연계한 건축물 및 토지 정보 수집 자동화</li>
