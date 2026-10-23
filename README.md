@@ -161,28 +161,25 @@ Spring Boot 기반으로 백엔드 개발과 서비스 운영을 경험했습니
 <table>
   <thead>
     <tr>
-      <th>상태</th>
       <th>프로젝트</th>
+      <th>진행처</th>
       <th>내용</th>
-      <th>Link</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://img.shields.io/badge/DONE-6B7280?style=flat-square" alt="DONE"></td>
-      <td><strong>mo.zip</strong></td>
-      <td>개발자와 취업준비생들이 프로젝트를 찾고 참여할 수 있는 협업 플랫폼</td>
       <td>
         <a href="https://github.com/PKNU-JavaStudy/mozip_backend">
-          <img src="./mozip.png" alt="mo.zip Backend" width="120">
+          <strong>mo.zip</strong>
         </a>
       </td>
+      <td>팀 프로젝트</td>
+      <td>개발자와 취업준비생들이 프로젝트를 찾고 참여할 수 있는 협업 플랫폼</td>
     </tr>
     <tr>
-      <td><img src="https://img.shields.io/badge/DONE-6B7280?style=flat-square" alt="DONE"></td>
-      <td><strong>한화 손해보험 마이데이터 2.0 고도화</strong></td>
+      <td><strong>한화손해보험 마이데이터 2.0 고도화</strong></td>
+      <td>한화손해보험</td>
       <td>금융 마이데이터 2.0 대응을 위한 보험 데이터 연계 API 고도화</td>
-      <td>-</td>
     </tr>
   </tbody>
 </table>
